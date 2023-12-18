@@ -1,15 +1,15 @@
 ---
-title: Welcome to Hinode!
-description: A clean documentation and blog theme for your Hugo site based on Bootstrap 5.
+author: Paolo Ferdinando Bongiovanni
+title:  Bongio's reflections
+description: Thoughts, ideas, reflections on life, startups, thinking by an Italian in Brighton UK.
 thumbnail:
-    url: /img/sunrise.jpg
-    author: Harris Vo
-    authorURL: https://unsplash.com/@hoanvokim
-    origin: https://unsplash.com/photos/ZX6BPboJrYk
+    url: /img/ben-collins-E59K1iszPXA-unsplash.jpg
+    author: Ben Collins
+    authorURL: https://unsplash.com/@bencollins
+    origin: https://unsplash.com/photos/people-standing-on-beach-during-sunset-E59K1iszPXA
     originName: Unsplash
 actions:
-  get-started:
-    url: "https://gethinode.com/docs"
-    title: "Get started"
-    icon: "fas book-open"
+  about:
+    url: "about_me"
+    title: "About"
 ---
