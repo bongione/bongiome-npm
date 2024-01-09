@@ -1,0 +1,9 @@
+spec:
+  name: bongiome
+  static_sites:
+    - environment_slug: html
+      git:
+        branch: main
+        repo_clone_url: https://github.com/bongione/bongiome-npm.git
+      name: bongiome
+      output-dir: public

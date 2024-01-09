@@ -1,0 +1,9 @@
+name: bongiome
+static_sites:
+  - environment_slug: html
+    github:
+      branch: main
+      deploy_on_push: true
+      repo: bongione/bongiome-npm.git
+    name: bongiome
+    output-dir: public
