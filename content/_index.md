@@ -1,7 +1,7 @@
 ---
 author: Paolo Ferdinando Bongiovanni
 title:  Bongio's reflections
-description: Thoughts, ideas, reflections on life, startups, thinking by an Italian in Brighton UK.
+description: Thoughts, ideas, reflections on life and startups by an Italo-Brightonian in the UK.
 thumbnail:
     url: /img/ben-collins-E59K1iszPXA-unsplash.jpg
     author: Ben Collins

@@ -2,6 +2,7 @@
 title: Cognitive biases, being yourself and fear of biases
 description: How cognitive biases, maybe, sometimes, a teeny-winsy promote self-doubt. 
 date: 2023-11-10
+lastmod: 2024-06-14
 thumbnail:
   url: /img/jesse-orrico-rmWtVQN5RzU-unsplash.jpg
   author: Jesse Orrico
@@ -11,25 +12,22 @@ thumbnail:
 tags: ['cognitive science', 'decision making', 'self-doubt', 'uncertainty']
 ---
 
-A couple of minutes ago I was thinking about the changes in approach to Mindiply I'm thinking about.
-These days I'm also listening to the **Decisive** audiobook by the Heath brothers, about cognitive biases and 
-decision-making.
+A couple of minutes ago, I was thinking about the changes in approach to Mindiply.
+These days, I'm also listening to the **[Decisive](https://www.goodreads.com/book/show/15798078-decisive)** audiobook by the Heath brothers about cognitive biases and decision-making.
 
-As I was thinking about it an email came in from the Happy startup school. It was about a few points
-raised by a chap who does marketing for hippies. A lot of what was said resonated with me and indeed seemed to validate the change in approach I am thinking about - like being genuine, human, and happy to be a fit
-for some people and not for others.
+As I was thinking about it, an email came from the [Happy Startup school](https://thehappystartupschool.com/). It was about a few points
+raised by a chap marketing for hippies. Much of what was said resonated with me and helped validate the change in approach I am thinking about - like being genuine, human, and happy to be a fit
+for some people and not others.
 
-As I had this warm feeling of validation percolating through my body, I mocked, gently, but still mocked 
-myself, telling myself - and this is how confirmation bias happens.
+As I felt this warm feeling of validation percolating through my body, I gently mocked myself, saying, "This is how confirmation bias happens."
 
-And then I retorted back, are you so afraid of your biases? Are you not only affected by them unconsciously but also let them limit your potential action because you suspect you are triggering them?
+And then I retorted back, "Are you so afraid of your biases? Are you not only affected by them unconsciously but also let them limit your potential action because you suspect you are triggering them?"
 
-In the past few years, as I look back on it, I had similar thoughts several times. You take a decision, you
-look back, and wonder if it is because I'm a delusional optimist. I mean, some may argue that if you have
-a startup that's what you're supposed to be, and you may get a chuckle out of me, because yeah, there is some
-element of truth, or at least credibility as you say it.
+In the past few years, as I look back on them, I had similar thoughts several times. You take a decision, 
+look back, and wonder if I took it because I'm a delusional optimist. You may argue that if I have
+a startup, that's what I'm supposed to be - a delusional optimist. You may get a chuckle out of me because there is some
+element of truth or at least credibility in what you say.
 
-I am giving myself before taking the plunge with the decision to change how I approach marketing and
-product discovery in Mindiply because I know I need to attain some distance. I suspect I will
-probably follow [this new direction]({{<ref "pushers_and_pullers">}}). One thing I know though, is that this time at least I will take the plunge
-knowing the risks, and accepting that part of the motivation for doing so is to better motivate myself, and make it more fun as a process.
+Before taking the plunge, I am giving myself time to change how I approach marketing and product discovery in Mindiply. I know I need to attain some distance. I suspect I will probably follow [this new direction]({{<ref "pushers_and_pullers">}}).
+
+One thing I know, though, is that this time, I will at least take the plunge knowing the risks and accepting that part of the motivation for doing so is to better motivate myself and make it more fun as a process.

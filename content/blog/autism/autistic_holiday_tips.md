@@ -1,5 +1,5 @@
 ---
-title: A successfull holiday - tips from our trip with our autistic son and neurotupical daugher
+title: A successfull holiday - tips from our trip with our autistic son and neurotypical daugher
 description: How we had the first successful family holiday in the last three years
 date: 2024-06-06
 thumbnail:
