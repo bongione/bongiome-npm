@@ -28,6 +28,6 @@ look back, and wonder if I took it because I'm a delusional optimist. You may ar
 a startup, that's what I'm supposed to be - a delusional optimist. You may get a chuckle out of me because there is some
 element of truth or at least credibility in what you say.
 
-Before taking the plunge, I am giving myself time to change how I approach marketing and product discovery in Mindiply. I know I need to attain some distance. I suspect I will probably follow [this new direction]({{<ref "pushers_and_pullers">}}).
+Before taking the plunge, I am giving myself time to change how I approach marketing and product discovery in Mindiply. I know I need to attain some distance. I suspect I will probably follow [this new direction]({{% relref "pushers_and_pullers" %}}).
 
 One thing I know, though, is that this time, I will at least take the plunge knowing the risks and accepting that part of the motivation for doing so is to better motivate myself and make it more fun as a process.

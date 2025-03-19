@@ -1,6 +1,5 @@
 title = "Bongio's blog"
-copyright = "Copyright © 2023 - 2024 Paolo Ferdinando Bongiovanni."
-paginate = 9
+copyright = "Copyright © 2023 - 2025 Paolo Ferdinando Bongiovanni."
 enableGitInfo = true
 
 # additional settings
@@ -33,6 +32,9 @@ delimiter = ""
 [outputs]
 home = ["HTML", "RSS", "REDIR"]
 
+[pagination]
+pagerSize=9
+
 [build]
   writeStats = true
 
@@ -44,7 +46,7 @@ home = ["HTML", "RSS", "REDIR"]
     disabled = false
     simple = true
 
-  [privacy.twitter]
+  [privacy.x]
     disabled = false
     enableDNT = true
     simple = true
@@ -60,7 +62,7 @@ home = ["HTML", "RSS", "REDIR"]
 [services]
   [services.instagram]
     disableInlineCSS = true
-  [services.twitter]
+  [services.x]
     disableInlineCSS = true
   [services.googleAnalytics]
     # ID = "G-xxxxxxxxxx"
