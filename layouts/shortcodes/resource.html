@@ -1,0 +1,6 @@
+{{- $resource := .Page.Resources.GetMatch (.Get 0) -}}
+{{- if $resource -}}
+<a href="{{ $resource.RelPermalink }}"{{ with (.Get "title") }} title="{{ . }}"{{ end }}{{ with (.Get "class") }} class="{{ . }}"{{ end }}>{{ .Inner }}</a>
+{{- else -}}
+{{ errorf "Resource %q not found in %s" (.Get 0) .Page.File.Path }}
+{{- end -}}

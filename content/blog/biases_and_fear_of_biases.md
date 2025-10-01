@@ -16,8 +16,7 @@ A couple of minutes ago, I was thinking about the changes in approach to Mindipl
 These days, I'm also listening to the **[Decisive](https://www.goodreads.com/book/show/15798078-decisive)** audiobook by the Heath brothers about cognitive biases and decision-making.
 
 As I was thinking about it, an email came from the [Happy Startup school](https://thehappystartupschool.com/). It was about a few points
-raised by a chap marketing for hippies. Much of what was said resonated with me and helped validate the change in approach I am thinking about - like being genuine, human, and happy to be a fit
-for some people and not others.
+raised by a chap marketing for hippies. Much of what was said resonated with me and helped validate the change in approach I am thinking about - like being genuine, human, and happy to be a fit for some people and not others.
 
 As I felt this warm feeling of validation percolating through my body, I gently mocked myself, saying, "This is how confirmation bias happens."
 

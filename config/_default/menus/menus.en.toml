@@ -5,7 +5,7 @@
 
 [[main]]
   name="About"
-  pageRef="/about_me"
+  pageRef="/about"
   weight=10
 
 
